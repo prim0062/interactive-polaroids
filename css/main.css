@@ -32,40 +32,16 @@ html {
 }
 
 .polaroid:nth-child(1) {
-  margin: 0;
-  padding: 10px;
-  width: 250px;
-
-  background-color: #fff;
-  border-radius: 4px;
-  box-shadow: 1px 4px 6px rgba(0, 0, 0, .5);
-
   transform: translate(190px, 100px) rotate(-12deg);
   z-index: 1;
 }
 
 .polaroid:nth-child(2) {
-  margin: 0;
-  padding: 10px;
-  width: 250px;
-
-  background-color: #fff;
-  border-radius: 4px;
-  box-shadow: 1px 4px 6px rgba(0, 0, 0, .5);
-
   transform: translate(288px, 150px) rotate(5deg);
   z-index: 3;
 }
 
 .polaroid:nth-child(3) {
-  margin: 0;
-  padding: 10px;
-  width: 250px;
-
-  background-color: #fff;
-  border-radius: 4px;
-  box-shadow: 1px 4px 6px rgba(0, 0, 0, .5);
-
   transform: translate(385px, 100px) rotate(33deg);
   z-index: 2;
 }
